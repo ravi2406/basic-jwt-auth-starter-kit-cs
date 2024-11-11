@@ -1,4 +1,4 @@
-Here’s a concise documentation outline for the **JWT Authentication Starter Kit** in `README.md` format to guide developers using the starter kit API:
+Here’s a concise documentation outline for the **JWT Authentication Starter Kit** in `README.md` format to guide developers using the starter kit API: 
 
 ---
 
